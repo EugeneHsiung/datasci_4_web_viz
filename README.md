@@ -12,7 +12,7 @@ One problem I encountered was trying to deploy the app. During my first attempt,
 Picture: 
 <img width="724" alt="Screen_Shot_2023-09-26_at_7 39 00_PM" src="https://github.com/EugeneHsiung/datasci_4_web_viz/assets/141866888/765a9acf-fba9-4249-b35f-5d5469a17465">
 
-After retrying several times, I decided to save all and reload the entire google shell. I reran ```pip install shiny``` and '''shiny run cd --reload``` This time I was able to successfully deploy the app. 
+After retrying several times, I decided to save all and reload the entire google shell. I reran ```pip install shiny``` and ```shiny run cd --reload``` This time I was able to successfully deploy the app. 
 
 Picture: 
 ![384443870_244438595217754_7481138554177546565_n](https://github.com/EugeneHsiung/datasci_4_web_viz/assets/141866888/6ce79229-1266-4cb7-8c46-c6c2b60067e7)

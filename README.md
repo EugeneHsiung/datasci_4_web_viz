@@ -21,7 +21,7 @@ Picture:
 The only problem that I had with Flask was creating a folder named ```Templates``` instead of ```templates```. However, after realizing the case sensitivity, I was able to successfully deploy the app.py
 
 ### Shiny R
-I ran into a few problems with the Shiny R application on Postit cloud following https://docs.posit.co/shinyapps.io/getting-started.html#working-with-shiny-for-r .  First I did not realize that I had to install the packages: dplyr, ggplot2, and shiny. After clicking on the packages and running the application, I was able to successfully create an application. 
+I ran into a few problems with the Shiny R application on Postit cloud following https://docs.posit.co/shinyapps.io/getting-started.html#working-with-shiny-for-r .  First I did not realize that I had to install the packages: dplyr, ggplot2, and shiny. After clicking on the packages, following the instructions and running the application, I was able to successfully create an application. 
 
 Picture: 
 <img width="904" alt="Screen Shot 2023-09-26 at 11 47 23 PM" src="https://github.com/EugeneHsiung/datasci_4_web_viz/assets/141866888/788bfb89-ac10-4f86-a62d-0ad76c5a625d">
